@@ -1,0 +1,28 @@
+The following are potential sections for the GM screen
+
+Attributes and their uses, costs and dice
+Derived Attributes: Guard, Tough, Resolve, HP
+Quick and Cutom Builds (?)
+  Attribute Cost and Dice
+Character Advancement: XP, Max Score
+
+CR Difficulties
+
+Wealth Examples
+
+Concise Weapon and Armor Levels
+
+Action list, economy
+
+Boon CRs
+
+Encounters
+  Encounter Scaling
+  On-the-fly NPC, Boss Builds
+
+
+Combat
+  The Action Roll: Success & Failure
+  Multi-targeting
+  Ad Hoc Damage Examples
+  
